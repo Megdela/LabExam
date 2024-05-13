@@ -1,4 +1,5 @@
 package question3;
 
-public class linearQueue {
+
+public class QueueUsingStack{
 }
